@@ -17,7 +17,7 @@
 
 ## Continuous Text Diffusion Model
 
-![](assets/continuous.png)
+![1](/assets/continuous.png)
 
 1. **Argmax Flows and Multinomial Diffusion: Learning Categorical Distributions** *Emiel Hoogeboom et al.* NeurIPS 2021.
 
@@ -77,7 +77,7 @@
 
 ## Discrete Text Diffusion Models
 
-![](assets/discrete.png)
+![2](/assets/discrete.png)
 
 1. **Structured Denoising Diffusion Models in Discrete State-Spaces** *Jacob Austin et al.* NeurIPS 2021.
 

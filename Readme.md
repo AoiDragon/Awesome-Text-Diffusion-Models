@@ -75,6 +75,6 @@
    *Lihua Qian et al.* arxiv 2022. [[Paper](https://arxiv.org/abs/2212.10240)] 
 
 4. **Diffusion-NAT: Self-Prompting Discrete Diffusion for Non-Autoregressive Text Generation** \
-   *Kun Zhou et al.* arxiv 2023.
+   *Kun Zhou et al.* arxiv 2023. [[Paper](https://arxiv.org/abs/2305.04044)] 
 
    

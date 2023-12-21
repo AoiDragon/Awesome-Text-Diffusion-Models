@@ -59,7 +59,10 @@
     *Jiasheng Ye et al.* arxiv 2023. [[Paper](https://arxiv.org/abs/2302.10025)] [[Code](https://github.com/yegcjs/DINOISER)] 
 
 14. **GlyphDiffusion: Text Generation as Image Generation** \
-    *Junyi Li et al.* arxiv 2023. [[Paper](https://arxiv.org/abs/2304.12519)] 
+    *Junyi Li et al.* arxiv 2023. [[Paper](https://arxiv.org/abs/2304.12519)]
+
+15. **DeTiME: Diffusion-Enhanced Topic Modeling using Encoder-decoder based LLM** \
+    *Weijie Xu et al.* Findings of EMNLP 2023. [[Paper](https://arxiv.org/abs/2310.15296)]
 
 ## Discrete Text Diffusion Models
 

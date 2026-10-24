@@ -80,4 +80,7 @@
 4. **Diffusion-NAT: Self-Prompting Discrete Diffusion for Non-Autoregressive Text Generation** \
    *Kun Zhou et al.* arxiv 2023. [[Paper](https://arxiv.org/abs/2305.04044)] 
 
+5. **Empirical Analysis of Decoding Biases in Masked Diffusion Models** \
+   *Pengcheng Huang et al.* ACL 2026. [[Paper](https://arxiv.org/abs/2508.13021)] [[Code](https://github.com/NEUIR/Uncode)] 
+
    
